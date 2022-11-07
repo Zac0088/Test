@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS Trip_Itinerary;
+CREATE DATABASE Trip_Itinerary;
